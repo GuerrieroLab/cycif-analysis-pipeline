@@ -9,8 +9,4 @@ This wiki provides a step-by-step guide for multiplexed image analysis, from raw
 
 ## Contents
 
-- [[Run MCMICRO]]
-- [[ROI Annotation in OMERO]]
-- [[Gating and QC with Gater]]
-- [[Spatial and Quantitative Analysis with CycifAnalyzeR]]
-# cycif-analysis-pipeline
+For details, look at [the wiki page](https://github.com/GuerrieroLab/cycif-analysis-pipeline/wiki).
